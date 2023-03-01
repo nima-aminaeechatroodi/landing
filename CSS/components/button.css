@@ -1,0 +1,12 @@
+.btn-blue {
+	background-color: purple;
+	padding: 15px 20px;
+	color: white;
+	border-radius: 5px;
+	font-weight: bold;
+  }
+  
+.btn-blue:hover { /*Lors du survol avec la souris, la couleur change */
+	background-color:white; 
+	color: purple;
+}
